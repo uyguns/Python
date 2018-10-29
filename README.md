@@ -1,0 +1,1 @@
+# Python Çalışmalarım Acemice:)
