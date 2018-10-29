@@ -32,3 +32,10 @@ ilk_sayi=input("1. sayiyi yaziniz: ")
 ikinci_sayi=input("2. sayyiyi yazınız: ")
 topla=int("ilk_sayi+ikinci_sayi")
 print(topla)
+
+#Dairenin çapını girmesini kullanıcıdan isteyelim.
+cap=input("Dairenin capini girin: ")
+yaricap=int(cap)/2
+pi=3.14159
+alan=pi*(yaricap*yaricap)
+print("capi", cap "cm olan dairenin alanı=", alan, "cm2'dir" )
