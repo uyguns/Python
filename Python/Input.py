@@ -31,6 +31,6 @@ pi=3.14159
 alan=pi* (yaricap*yaricap)
 #Hesapladığımız alanı yazdırma.
 print("capi", cap, "cm olan dairenin alani:", alan, "cm2'dir" )
-
+#Burada yası ele alalım.
 a=input("Lutfen yasinizi girin: ")
 print("Yeni kullanicimiz", a ,"Yasindadir")36
