@@ -18,5 +18,5 @@ b="Kimya"
 c="Biyoloji"
 print(a, b, c)
 print(a, b, c, sep='-')
-#Fizik-Kimya-Biyoloji   Sep sonrası tırnak iaretleri icine ne  koyarsan araya o gelir
-print(a,b,c,sep='/
+#Fizik-Kimya-Biyoloji   Sep sonrası tırnak iaretleri icine ne  koyarsan araya o gelir.
+#pritn(a, b, c, seop='/')
