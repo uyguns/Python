@@ -20,8 +20,8 @@ print(Hosgeldiniz_Yazisi)
 K_Adi=input('Lutfen kullanici adini girin: ')
 print(K_Adi, 'Adli uye basariyle giris yaptı. ')
 
-x=input("Adinizi girin: ")
-print("merhaba, " x)
+a=input("Adinizi girin: ")
+print("merhaba", a)
 
 #Dairenin çapını girmesini kullanıcıdan isteyelim.
 cap=input("Dairenin capini girin: ")
@@ -33,4 +33,4 @@ alan=pi* (yaricap*yaricap)
 print("capi", cap, "cm olan dairenin alani:", alan, "cm2'dir" )
 #Burada yası ele alalım.
 a=input("Lutfen yasinizi girin: ")
-print("Yeni kullanicimiz", a ,"Yasindadir")36
+print("Yeni kullanicimiz", a ,"Yasindadir")
