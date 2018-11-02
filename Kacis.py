@@ -1,4 +1,4 @@
 
 Baslik = "Python Programlama Dili"
-print(Baslik, "\n", "-"*len(Baslik), sep="")
+print(Baslik, "\n", "-"*len(Baslik)
 
